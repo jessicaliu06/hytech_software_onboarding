@@ -1,5 +1,5 @@
 {
-    description = "Lab 02 Part 2 Flake";
+    description = "Lab 02 Part 3 Flake";
 
     inputs = {
         nixpkgs.url = "github:NixOS/nixpkgs";
@@ -10,9 +10,6 @@
         let
             helloworld_overlay = final: prev: rec {
                 helloworld_lib = final.callPackage ./hellolib.nix { };
-                helloworld = final.callPackage ./default.nix {
-                    inherit helloworld_lib;
-                };
             };
 
             my_overlays = [ helloworld_overlay ];
