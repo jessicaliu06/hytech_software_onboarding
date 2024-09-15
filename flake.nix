@@ -20,7 +20,7 @@
             };
 
             in {
-                packages.x86_64-linux.default = pkgs.helloworld;
+                packages.x86_64-linux.default = pkgs.helloworld_lib;
                 overlays.default = nixpkgs.lib.composeManyExtensions my_overlays;
             };
 }
