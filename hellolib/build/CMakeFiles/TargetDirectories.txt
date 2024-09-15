@@ -1,0 +1,7 @@
+/home/jessicaliu/Software-Onboarding-2025/JessicaLiu/Lab2/Lab2Part2/hellolib/build/CMakeFiles/helloworld_lib.dir
+/home/jessicaliu/Software-Onboarding-2025/JessicaLiu/Lab2/Lab2Part2/hellolib/build/CMakeFiles/edit_cache.dir
+/home/jessicaliu/Software-Onboarding-2025/JessicaLiu/Lab2/Lab2Part2/hellolib/build/CMakeFiles/rebuild_cache.dir
+/home/jessicaliu/Software-Onboarding-2025/JessicaLiu/Lab2/Lab2Part2/hellolib/build/CMakeFiles/list_install_components.dir
+/home/jessicaliu/Software-Onboarding-2025/JessicaLiu/Lab2/Lab2Part2/hellolib/build/CMakeFiles/install.dir
+/home/jessicaliu/Software-Onboarding-2025/JessicaLiu/Lab2/Lab2Part2/hellolib/build/CMakeFiles/install/local.dir
+/home/jessicaliu/Software-Onboarding-2025/JessicaLiu/Lab2/Lab2Part2/hellolib/build/CMakeFiles/install/strip.dir

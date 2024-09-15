@@ -1,0 +1,5 @@
+/usr/local/lib/libhelloworld_lib.so
+/usr/local/lib/cmake/helloworld_lib/helloworld_libTargets.cmake
+/usr/local/lib/cmake/helloworld_lib/helloworld_libTargets-noconfig.cmake
+/usr/local/lib/cmake/helloworld_lib/helloworld_libConfig.cmake
+/usr/local/include/hello.h
