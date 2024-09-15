@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -shared -Wl,-soname,libhelloworld_lib.so -o libhelloworld_lib.so CMakeFiles/helloworld_lib.dir/src/hello.cpp.o 
