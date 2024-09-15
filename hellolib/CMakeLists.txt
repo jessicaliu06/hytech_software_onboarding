@@ -4,7 +4,7 @@ project(Lab2 VERSION 1.0
                           DESCRIPTION "HyTech Software Training Lab 2"
                           LANGUAGES CXX)
 
-add_library(helloworld_lib SHARED src/hello.cpp)
+add_library(helloworld_lib STATIC src/hello.cpp)
 
 target_include_directories(helloworld_lib PUBLIC 
   $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
